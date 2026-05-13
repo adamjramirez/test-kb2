@@ -1,3 +1,3 @@
 # Constraints
 
-List hard rules and constraints for this organization.
+- SOC2 Type 1 is baseline for all new products.
