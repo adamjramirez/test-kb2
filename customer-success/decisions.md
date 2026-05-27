@@ -1,4 +1,7 @@
 # Customer Success — Decisions
 
 ## Pricing
-Pricing: $50
+Standard pricing: $50.
+
+## Process
+Onboarding takes 2 weeks.
