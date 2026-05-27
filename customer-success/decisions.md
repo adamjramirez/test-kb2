@@ -11,3 +11,5 @@ Email support during business hours.
 
 ## Terms
 Net 30 payment terms.
+## Renewal
+Auto-renew unless cancelled 30 days prior.
