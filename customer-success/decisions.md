@@ -1,3 +1,7 @@
-# Decisions — customer-success
+# Customer Success — Decisions
 
-Record key decisions made at customer-success level.
+## Pricing
+Pricing: $50
+
+## Process
+Standard onboarding takes 2 weeks.
