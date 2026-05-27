@@ -1,4 +1,4 @@
 # Customer Success — Decisions
 
 ## Pricing
-Standard pricing: $50.
+Standard pricing: $99.
