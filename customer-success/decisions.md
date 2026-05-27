@@ -3,6 +3,9 @@
 ## Pricing
 Standard pricing: $50.
 
+## Discounts
+Annual prepay discount of 10%.
+
 ## Process
 Onboarding takes 2 weeks.
 
