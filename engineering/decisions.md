@@ -13,3 +13,4 @@ Record key decisions made at engineering level.
 - **2026-05-13:** Numerous production deployments were successfully executed, fixing critical bugs, including NRR calculation for churned accounts and an SSL redirect issue.
 - **2026-05-13:** A new internal outreach application is being built by Ben Heinkel using Cloudflare and Resend to scale outbound email efforts.
 - **2026-06-07:** Mohit fixed FE currency issue on dashboard, deployed within 10 minutes.
+- **2026-06-10:** Decision to use a separate HubSpot app for the staging environment to prevent conflicts and ensure isolated testing.
